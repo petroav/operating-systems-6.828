@@ -7,9 +7,9 @@ my intention so I complied with the request. I uploaded my work to help others
 doing the class by themselves get unstuck and make progress since I definitely
 could have used some help while going through it.
 
-*If you are a friend or a potential employer who wants to check out my work then
+**If you are a friend or a potential employer who wants to check out my work then
 you already have my contact information so get in touch and I will send you the
-materials.*
+materials.**
 
 For completeness I've attached the original README below:
 
